@@ -19,8 +19,11 @@ Fig 2. Simulation experimental results on (a) Chikusei dataset and (b) Xiong'an 
 
 [`Preprocessed Xiong'an dataset can be download from here`](https://aistudio.baidu.com/aistudio/datasetdetail/277497).
 
+![Performance](https://github.com/XWangBin/DASDU-Net/blob/main/IMGs/result4.png)  
+Fig 3. Experimental results on real-world remote sensing images.
+
 ![Performance](https://github.com/XWangBin/DASDU-Net/blob/main/IMGs/result3.png)  
-Fig 3. Experimental results on real-world images.
+Fig 3. Experimental results on real-world visible light images.
 
 [`Real-world dataset will be released...`]
 
