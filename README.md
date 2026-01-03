@@ -1,4 +1,4 @@
-# DASDU-Net: Dual-Attention Spectral Diffusion Unfolding Network
+# DASDU-Net: Deep Adaptive Spectral Degradation Unfolding Network for Spectral Reconstruction from Multispectral Images
 
 [![Stars](https://img.shields.io/github/stars/XWangBin/DASDU-Net?style=flat-square)](https://github.com/XWangBin/DASDU-Net/stargazers)
 [![PyTorch](https://img.shields.io/badge/PyTorch-v1.8+-ee4c2c?logo=pytorch&style=flat-square)](https://pytorch.org/)
@@ -12,34 +12,11 @@
 DASDU-Net 提出了一种结合**双注意力机制**与**深度展开网络**的光谱重建框架。它能够有效地从多光谱图像（MSI）或 RGB 图像中恢复出高精度的光谱信息（HSI）。该模型在多个遥感及可见光数据集上表现出了卓越的性能。
 
 
-
 ---
 
 ## 🎨 流程图 (Flowchart)
 *目前正在准备发布中 (Waiting for release...)*
 
----
-
-## 📊 实验结果展示 (Result Presentation)
-
-### 1. 模拟数据集结果
-在 **CAVE** 和 **NTIRE 2022** 数据集上的重建性能对比：
-
-![Performance](https://github.com/XWangBin/DASDU-Net/blob/main/IMGs/result1.png?raw=true)
-*Fig 1. (a) CAVE 数据集与 (b) NTIRE 2022 数据集上的仿真结果对比。*
-
-在 **Chikusei** 和 **雄安 (Xiong'an)** 遥感数据集上的结果对比：
-
-![Performance](https://github.com/XWangBin/DASDU-Net/blob/main/IMGs/result2.png?raw=true)
-*Fig 2. (a) Chikusei 数据集与 (b) 雄安数据集上的仿真结果对比。*
-
-### 2. 真实场景应用
-模型在真实遥感图像及可见光图像上的泛化能力：
-
-| 真实遥感图像重建 | 真实可见光图像重建 |
-| :---: | :---: |
-| ![Real-RS](https://github.com/XWangBin/DASDU-Net/blob/main/IMGs/result4.png?raw=true) | ![Real-VL](https://github.com/XWangBin/DASDU-Net/blob/main/IMGs/result3.png?raw=true) |
-| *Fig 3. 真实遥感图像实验结果* | *Fig 4. 真实可见光图像实验结果* |
 
 ---
 
