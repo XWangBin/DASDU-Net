@@ -26,8 +26,8 @@ DASDU-Net 提出了一种结合**双注意力机制**与**深度展开网络**�
 | :--- | :--- | :--- |
 | **CAVE** | 实验室环境下的可见光光谱数据 | [原始数据](https://www1.cs.columbia.edu/CAVE/databases/multispectral/) \| [预处理版 (百度网盘)](https://aistudio.baidu.com/aistudio/datasetdetail/147509) |
 | **NTIRE 2022** | 自然场景光谱数据 | [从 MST++ 下载](https://github.com/caiyuanhao1998/MST-plus-plus) |
-| **Chikusei** | 遥感影像数据集 (筑波) | [预处理版 (百度网盘)](https://aistudio.baidu.com/aistudio/datasetdetail/262154) |
-| **Xiong'an** | 遥感影像数据集 (雄安) | [预处理版 (百度网盘)](https://aistudio.baidu.com/aistudio/datasetdetail/277497) |
+| **Chikusei** | 遥感影像数据集 | [预处理版 (百度网盘)](https://aistudio.baidu.com/aistudio/datasetdetail/262154) |
+| **Xiong'an** | 遥感影像数据集 | [预处理版 (百度网盘)](https://aistudio.baidu.com/aistudio/datasetdetail/277497) |
 | **Real-world** | 真实场景采集数据 | *即将发布...* |
 
 ---
@@ -40,8 +40,8 @@ DASDU-Net 提出了一种结合**双注意力机制**与**深度展开网络**�
 | :--- | :---: | :---: | :---: | :--- |
 | **CAVE** | 3 | 31 | **31** | 实验室可见光光谱 |
 | **NTIRE 2022** | 3 | 31 | **31** | 自然场景可见光光谱 |
-| **雄安 (Xiong'an)** | 3 | 93 | **93** | 遥感高光谱 (93通道) |
-| **筑波 (Chikusei)** | 3 | 128 | **128** | 遥感高光谱 (128通道) |
+| **Xiongan** | 4 | 93 | **93** | 遥感高光谱 (93通道) |
+| **Chikusei** | 4 | 128 | **128** | 遥感高光谱 (128通道) |
 
 ## 🛠️ 环境配置 (Environment)
 ```bash
