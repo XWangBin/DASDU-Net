@@ -50,4 +50,4 @@ conda create -n dasdu python=3.8
 conda activate dasdu
 
 # 安装依赖项
-pip install torch torchvision einops tqdm matplotlib opencv-python
+pip install torch torchvision einops
