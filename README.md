@@ -15,7 +15,7 @@ DASDU-Net 提出了一种结合**双注意力机制**与**深度展开网络**�
 ---
 
 ## 🎨 流程图 (Flowchart)
-![Performance](https://github.com/XWangBin/DASDU-Net/blob/main/IMGs/fig1.svg?raw=true)
+![Performance](https://github.com/XWangBin/DASDU-Net/blob/main/IMGs/dasdu.svg?raw=true)
 *Fig 1. Flowchart of DASDU-Net*
 
 
