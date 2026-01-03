@@ -1,7 +1,7 @@
 # DASDU-Net: Deep Adaptive Spectral Degradation Unfolding Network for Spectral Reconstruction from Multispectral Images
 
 [![Stars](https://img.shields.io/github/stars/XWangBin/DASDU-Net?style=flat-square)](https://github.com/XWangBin/DASDU-Net/stargazers)
-[![PyTorch](https://img.shields.io/badge/PyTorch-v1.8+-ee4c2c?logo=pytorch&style=flat-square)](https://pytorch.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-v2.1+-ee4c2c?logo=pytorch&style=flat-square)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 这是论文 **"DASDU-Net for Spectral Reconstruction from Multispectral Images"** 的官方 PyTorch 实现代码。
