@@ -44,16 +44,10 @@ DASDU-Net 提出了一种结合**双注意力机制**与**深度展开网络**�
 | **Xiongan** | 4 | 93 | **93** | 遥感高光谱 (93通道) |
 | **Chikusei** | 4 | 128 | **128** | 遥感高光谱 (128通道) |
 
-## 🛠️ 环境配置 (Environment)
-```bash
-# 创建并激活环境
-conda create -n dasdu python=3.8
-conda activate dasdu
-
-# 安装依赖项
-pip install torch torchvision einops
-
-
+## 📝 Usage Notes
+1. For technical questions, contact: **wangb@nim.ac.cn**
+2. If this repo helps you, please consider citing our works:
+```bibtex
 @article{DASDU-Net,
   title={Deep adaptive spectral degradation unfolding network for spectral reconstruction from multispectral images},
   author={Wang, Bin and Xiong, Xingchuang and Lian, Yusheng and Cao, Xuheng and Zhou, Han and Yu, Kun and Liu, Zilong},
