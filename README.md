@@ -52,3 +52,15 @@ conda activate dasdu
 
 # 安装依赖项
 pip install torch torchvision einops
+
+
+@article{DASDU-Net,
+  title={Deep adaptive spectral degradation unfolding network for spectral reconstruction from multispectral images},
+  author={Wang, Bin and Xiong, Xingchuang and Lian, Yusheng and Cao, Xuheng and Zhou, Han and Yu, Kun and Liu, Zilong},
+  journal={Optics \& Laser Technology},
+  volume={196},
+  pages={114641},
+  year={2026},
+  publisher={Elsevier},
+  doi={10.1016/j.optlastec.2025.114641}
+}
